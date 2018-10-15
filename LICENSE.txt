@@ -1,3 +1,4 @@
 #LICENSE
 
-This is th elicense
+This is the license
+##Apche 3.0
